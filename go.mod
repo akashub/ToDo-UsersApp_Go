@@ -1,4 +1,4 @@
-module ToDoAssignment
+module github.com/akashub/ToDo-UsersApp_Go
 
 go 1.21.5
 
